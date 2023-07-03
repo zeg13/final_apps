@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "888283367698",
+    "project_id": "finalapps-99baf",
+    "storage_bucket": "finalapps-99baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888283367698:android:8bcfda7ce0f83375048bcb",
+        "android_client_info": {
+          "package_name": "com.zegun.final_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888283367698-3phhei8rt8jk6rphkatj6n1q3rmspa8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zegun.final_apps",
+            "certificate_hash": "354de8aa1bdb5868747021c99105d2b2a4848508"
+          }
+        },
+        {
+          "client_id": "888283367698-13fkfhto5g2lgndpgp4budq0mrn8ovdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDhJFZQvoqX11jVLJEhoy7zC6WTHkDvA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888283367698-13fkfhto5g2lgndpgp4budq0mrn8ovdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
